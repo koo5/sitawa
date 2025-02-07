@@ -1,0 +1,7 @@
+pip~=24.0
+wheel~=0.43.0
+setuptools~=70.0.0
+requests
+fire
+openai
+paho-mqtt
